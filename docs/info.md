@@ -8,15 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 Explain how your project works
-Code pulled from vga playground displays moving checkered pattern on vga display
+#Code pulled from vga playground displays moving checkered pattern on vga display
 
 ## How to test
-
-Connect VGA display and let run
+#Connect VGA display and let run
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-- VGA display
-- 
+#List external hardware used in your project (e.g. PMOD, LED display, etc), if any 
+#VGA display
+ 
